@@ -1,6 +1,6 @@
 # KiCad Libraries
 
-This is a small, but growing, collection of parts for use in the EDA package [KiCad](http://kicad-pcb.org/).
+This is a small, but growing, collection of parts for use in the EDA package [KiCad](http://kicad.org/).
 
 # Libraries
 
